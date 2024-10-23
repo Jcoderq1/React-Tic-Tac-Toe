@@ -1,3 +1,5 @@
+"use client";
+
 import "./Post.css";
 // to import from a css style sheet we use this syntax
 // when you write export and only export it can only be accessed as a named export so when you want to acces this component you need to reference

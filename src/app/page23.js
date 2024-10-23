@@ -1,3 +1,5 @@
+"use client";
+
 import Post from "@/components/Post";
 // in the Posts.js file we can set export default before the function alowing us to use whatever name we want for the import file
 // here we are using Blog instead of Post since the Post component is a export default otherwise we would have to use {Post}
